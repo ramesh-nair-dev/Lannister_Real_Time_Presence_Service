@@ -212,4 +212,16 @@ This system scales horizontally:
 
 ## License
 
+## 👤 Author
+
+**Ramesh Nair**
+
+* Backend Engineer | Java | Spring Boot | System Design Enthusiast
+* Focused on building **scalable, maintainable, real-world systems**.
+* Passionate about **clean architecture, design patterns, and domain modeling**.
+
+📫 Reach me at: ramesh200212@gmail.com
+🌐 GitHub: https://github.com/ramesh-nair-dev
+
+
 This is a demonstration project.
